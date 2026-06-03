@@ -118,7 +118,7 @@ def main():
     predictor = HarmonicPredictor()
 
     test_cases = [
-        {'freq': 50, 'amplitude': 1.0},
+        {'freq': 111, 'amplitude': 1.0},
         {'freq': 50, 'amplitude': 2.0},
         {'freq': 100, 'amplitude': 1.5},
     ]

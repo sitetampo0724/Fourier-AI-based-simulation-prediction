@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f33f60d-a564-4be8-983d-a450574f93a3" name="Changes" comment="optimized whole file structure">
-      <change afterPath="$PROJECT_DIR$/NoiseDataGeneration/datageneration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Ai调用.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ai调用.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3f33f60d-a564-4be8-983d-a450574f93a3" name="Changes" comment="add traditional-method">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NoiseDataDataset/Statics.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/predict_harmonics_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/predict_harmonics_final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/prediction_result.png" beforeDir="false" afterPath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/prediction_result.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,22 +56,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.datageneration.executor": "Run",
-    "Python.graph.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.predict_harmonics_final.executor": "Run",
-    "Python.query.executor": "Run",
-    "Python.全文件2.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/SJTU Classes/物理项目化学习/Ai调用"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.app_ui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datageneration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.predict_harmonics_final.executor&quot;: &quot;Run&quot;,
+    &quot;Python.query.executor&quot;: &quot;Run&quot;,
+    &quot;Python.全文件2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SJTU Classes/物理项目化学习/Ai调用&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -137,13 +136,39 @@
       <option name="project" value="LOCAL" />
       <updated>1780234275622</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new graph">
+      <option name="closed" value="true" />
+      <created>1780237534848</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780237534848</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new graph">
+      <option name="closed" value="true" />
+      <created>1780237573379</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780237573379</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add traditional-method">
+      <option name="closed" value="true" />
+      <created>1780465979322</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1780465979322</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4.30" />
     <MESSAGE value="add readme" />
     <MESSAGE value="optimized whole file structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="optimized whole file structure" />
+    <MESSAGE value="new graph" />
+    <MESSAGE value="add traditional-method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add traditional-method" />
   </component>
 </project>
