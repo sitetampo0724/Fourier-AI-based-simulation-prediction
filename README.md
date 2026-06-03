@@ -18,7 +18,9 @@ for competition use
 
 最后我们需要一个评价系统和一个预测的程序，放在prediction&visualization下
 
-什么？你说ailanguagemodel是啥，这个是交大api调用，以备不时之需。
+什么？你说ailanguagemodel是啥，这个是交大api调用，以备不时之需
+
+traditional-method是一些传统的信号处理方法，无法处理噪声过大的行为，没办法较好的预测幅度值，所以我们需要使用ai模型
 
 
 
