@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f33f60d-a564-4be8-983d-a450574f93a3" name="Changes" comment="add traditional-method">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/predict_harmonics_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/predict_harmonics_final.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/prediction_result.png" beforeDir="false" afterPath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/prediction_result.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/square_wave_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/square_wave_model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/square_wave_model_features.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/square_wave_model_features.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/square_wave_model_labels.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/DifferentAImodel/Fastest-Gradient/square_wave_model_labels.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DifferentAImodel/harmonic_31order_project/harmonic_project/square_wave_model_features.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/DifferentAImodel/harmonic_31order_project/harmonic_project/square_wave_model_features.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DifferentAImodel/harmonic_31order_project/harmonic_project/square_wave_model_labels.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/DifferentAImodel/harmonic_31order_project/harmonic_project/square_wave_model_labels.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
